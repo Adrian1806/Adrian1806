@@ -9,10 +9,10 @@ I am Adrian, and i want career in web development. I am at the beginning of my c
 
  ## Example of work
  -Timer         
- <img src"https://github.com/Adrian1806/Adrian1806/blob/main/Netflix%20-%20Google%20Chrome%2010_18_2023%2010_54_03%20PM.png" width="40" height="20"/>
- <img src"https://github.com/Adrian1806/Adrian1806/blob/main/Joculet%2010_19_2023%2012_13_35%20AM.png" width="400" height="100"/>
- <img src"https://github.com/Adrian1806/Adrian1806/blob/main/Document%20-%20Google%20Chrome%2010_19_2023%2012_13_08%20AM.png" width="400" height="100"/>
- <img src"https://github.com/Adrian1806/Adrian1806/blob/main/Calculator%20-%20Google%20Chrome%2010_19_2023%2012_12_43%20AM.png" width="400" height="100"/>
+ <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Netflix%20-%20Google%20Chrome%2010_18_2023%2010_54_03%20PM.png" width="40" height="20"/>
+ <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Joculet%2010_19_2023%2012_13_35%20AM.png" width="400" height="100"/>
+ <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Document%20-%20Google%20Chrome%2010_19_2023%2012_13_08%20AM.png" width="400" height="100"/>
+ <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Calculator%20-%20Google%20Chrome%2010_19_2023%2012_12_43%20AM.png" width="400" height="100"/>
  -Flipper Game
  -Calculator
  -Netflix-clone
