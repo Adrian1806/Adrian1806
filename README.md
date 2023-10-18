@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adrian
 #### Junior Front End
-![Junior Front End](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEWkhfSLwWwWVXP0-U_EL2CxXjkELLXxT9TvkO5pGs_6EJoOUW4BgoO_QBXH4FFlu4fs&usqp=CAU)
+![Junior Front End](https://res.cloudinary.com/practicaldev/image/fetch/s--zvqWPr9P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0jv015bge560tv0zf6k.jpg)
 
 I am Adrian, and i want career in web development. I am at the beginning of my career for front end but in future i would like to become full stack.
 
