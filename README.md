@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adrian
 #### Junior Front End
-![Junior Front End]([https://banner2.cleanpng.com/20180126/ilq/kisspng-digital-marketing-business-service-brand-computer-programming-5a6bfddde0fe46.3724847015170267819216.jpg](https://github.com/Adrian1806/Adrian1806/blob/main/programmer.gif]))
+![Junior Front End]((https://github.com/Adrian1806/Adrian1806/blob/main/programmer.gif))
 
 I am Adrian, and i want career in web development. I am at the beginning of my career for front end but in future i would like to become full stack.
 
