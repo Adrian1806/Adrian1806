@@ -8,7 +8,8 @@ I am Adrian, and i want career in web development. I am at the beginning of my c
 * 💻 JS / HTML / CSS
 
  ## Example of work
- -Timer <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Document%20-%20Google%20Chrome%2010_19_2023%2012_13_08%20AM.png" width="200" height="100"/>
+ -Timer 
+ <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Document%20-%20Google%20Chrome%2010_19_2023%2012_13_08%20AM.png" width="200" height="100"/>
  
  -Flipper Game  <img src="https://github.com/Adrian1806/Adrian1806/blob/main/Joculet%2010_19_2023%2012_13_35%20AM.png" width="200" height="100"/>
  
