@@ -1,10 +1,17 @@
-### Hi there 👋, my name is Adrian
+### Hi there 👋,  i'm Adrian
 #### Junior Front End
 ![Junior Front End](https://res.cloudinary.com/practicaldev/image/fetch/s--zvqWPr9P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0jv015bge560tv0zf6k.jpg)
 
 I am Adrian, and i want career in web development. I am at the beginning of my career for front end but in future i would like to become full stack.
 
-Skills:  JS / HTML / CSS
+##Skills 
+* 💻 JS / HTML / CSS
+
+ ## Example of work
+ -Timer         <img src"" width="400" height="100"><img src"" width="400" height="100"><img src"" width="400" height="100"><img src"" width="400" height="100">
+ -Flipper Game
+ -Calculator
+ -Netflix-clone
 
 - 🔭 I’m currently working on Netflix-Clone 
 - 🌱 I’m currently learning React 
